@@ -1,0 +1,10 @@
+/.idea
+/target
+
+# IDEA artifacts and output dirs
+*.iml
+*.ipr
+*.iws
+out
+test-output
+atlassian-ide-plugin.xml
